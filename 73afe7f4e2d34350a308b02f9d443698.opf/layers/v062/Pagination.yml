@@ -916,13 +916,13 @@ annotations:
     reference: ''
     span:
       start: 189099
-      end: 191515
+      end: 191496
   a44b04cb5ddc48db8d651c0840c02ddd:
     imgnum: 1135
     reference: ''
     span:
-      start: 191517
-      end: 191944
+      start: 191498
+      end: 191894
 local_ids:
   3245d087b94141ce838fcc2045ee739c: 200000
   a1e183d62290410c81e3f074cc491f70: 200001
